@@ -11,4 +11,4 @@ public class esercizio6 {
         return input.length();
     }
 }
-}
+

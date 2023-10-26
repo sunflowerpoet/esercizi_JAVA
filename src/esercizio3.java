@@ -1,5 +1,5 @@
 public class esercizio3 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         double a = 3.0;
         double b = 2.0;
         int somma = (int)a + (int)b;
