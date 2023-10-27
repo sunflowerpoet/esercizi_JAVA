@@ -6,7 +6,7 @@ public class esercizio17 {
 
     public static void main (String[] args) {
 
-        int dayNumber = 13;
+        int dayNumber = 6;
         String weekDay = dayName(dayNumber);
 
         System.out.println("Today is: " + weekDay);
