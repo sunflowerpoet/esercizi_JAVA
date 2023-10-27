@@ -1,4 +1,4 @@
-public class esercizio1 {
+public class esercizio01 {
     public static void main(String[] args) {
         float base = 13f;
         int height = 15;

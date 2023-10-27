@@ -1,4 +1,4 @@
-public class esercizio8 {
+public class esercizio08 {
     public static void main(String[] args) {
         int x = 9;
         int y = 27;
