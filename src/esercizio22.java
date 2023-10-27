@@ -10,7 +10,7 @@ public class esercizio22 {
             System.out.println(i);
 
             if (i == 5) {
-                System.out.println("End reached.");
+                System.out.println("End of loop.");
                 break;
             }
         }
