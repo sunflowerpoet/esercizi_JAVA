@@ -6,13 +6,13 @@ public class esercizio15 {
     public static void main (String[]args) {
         for (int i = 1; i <= 100; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
-                System.out.println("Fizzbuzz");
+                System.out.print(" Fizzbuzz ");
             } else if (i % 3 == 0) {
-                System.out.println("Fizz");
+                System.out.print(" Fizz ");
             } else if (i % 5 == 0) {
-                System.out.println("Buzz");
+                System.out.print(" Buzz ");
             } else {
-                System.out.println(i);
+                System.out.println(" " + i + " ");
             }
         }
     }
