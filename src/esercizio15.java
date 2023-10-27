@@ -4,15 +4,19 @@
 
 public class esercizio15 {
     public static void main (String[]args) {
+        int number = 1;
+        mult(number);
+    }
+    public static void mult (int number) {
         for (int i = 1; i <= 100; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
-                System.out.print(" Fizzbuzz ");
+                System.out.println("Fizzbuzz");
             } else if (i % 3 == 0) {
-                System.out.print(" Fizz ");
+                System.out.println("Fizz");
             } else if (i % 5 == 0) {
-                System.out.print(" Buzz ");
+                System.out.println("Buzz");
             } else {
-                System.out.println(" " + i + " ");
+                System.out.println(i);
             }
         }
     }

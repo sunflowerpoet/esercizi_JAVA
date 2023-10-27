@@ -10,7 +10,6 @@ public class esercizio19 {
         System.out.println("The sum of the numbers before " + maxNum + " is " + sum);
     }
     public static int operation (int maxNum) {
-
         int sum = 0;
         int numValue = 1;
 
