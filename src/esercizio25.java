@@ -3,7 +3,7 @@ Questo metodo dovrà poi stampare tutte le occorrenze del carattere 'a' o 0 in c
 
 public class esercizio25 {
     public static void main(String[] args) {
-        String intro = "HELLO MY NAME IS ANNA";
+        String intro = "I LOVE YOU BABY BOY";
         printChar(intro);
         char[] characters = createArray(intro);
         findA(characters);
